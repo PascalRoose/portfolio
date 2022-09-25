@@ -11,12 +11,12 @@ While I'm at it, I'm also learning some new technologies and techniques by build
 
 Here are some of the things I want to add to this project to learn more about them:
 
-- [ ] Set up a custom domain for the website
+- [x] Set up a custom domain for the website
 - [ ] Add an about me section to the website
 - [ ] Add a projects' section in an interactive way
 - [ ] Add a blog section to the website
 - [ ] Add a contact form to the website
-- [ ] Set up a CI/CD pipeline using GitHub Actions
+- [x] Set up a CI/CD pipeline using GitHub Actions
 - [ ] Set up automatic deployment to Google App Engine 
 - [ ] Set up a Google Kubernetes Engine cluster to host the website
 - [ ] Change automatic deployment to use the kubernetes cluster
