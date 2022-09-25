@@ -1,6 +1,6 @@
 # Pascal's Portfolio
 
-_Visit [pascalroose.dev](https://pascalroose.dve) to see this portfolio in action._
+_Visit [pascalroose.dev](https://pascalroose.dev) to see this portfolio in action._
 
 ## About
 
