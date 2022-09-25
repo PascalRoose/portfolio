@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--2wu!&ne45^r_z-7*-qc15v3g12*%7_vc70&u=ftyqqt7#=4zt
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [os.environ.get('LOAD_BALANCER_IP', '127.0.0.1')]
 
 
 # Application definition
